@@ -11,13 +11,10 @@ main(5000)
 
 ## Results 
 ### True action region and constraints 
-![setup](results/setup.png "OCO problem setup")
 <img src="results/setup.png" alt="OCO problem setup" width="400"/>
 
 ### Cummulative regret 
-![regret](results/regret.png "Cummulative regret")
 <img src="results/regret.png" alt="Cummulative regret" width="400"/>
 
 ### Cummulative constraint violations
-![constraints](results/constraints.png "Cummulative constraint violation")
 <img src="results/constraints.png" alt="Cummulative constraint violation" width="400"/>
