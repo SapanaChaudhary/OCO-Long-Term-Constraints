@@ -12,7 +12,7 @@ main(5000)
 ## Results 
 ### True action region and constraints 
 ![setup](results/setup.png "OCO problem setup")
-<img src="esults/setup.png" alt="OCO problem setup" width="200"/>
+<img src="results/setup.png" alt="OCO problem setup" width="200"/>
 
 ### Cummulative regret 
 ![regret](results/regret.png "Cummulative regret")
