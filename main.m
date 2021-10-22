@@ -1,4 +1,4 @@
-% prediction from expert advice implementation 
+% OCO with long term constraints
 function[] = main(T)
 %% preliminaries 
 d = 2; % dimension of the action space

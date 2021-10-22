@@ -1,3 +1,6 @@
+% Implementation of Algorithm 1 in A Low Complexity Algorithm with O(?T) Regret and O(1) 
+% Constraint Violations for Online Convex Optimization with Long Term Constraints
+
 function[iterates, regret, const_violation] = Hao_and_Neely(d, m, x_curr, x_star, L, G, T, g_t_list, A, b, lb, ub, options)
 opt_err = zeros(T,1);
 regret = zeros(T,1);

@@ -1,4 +1,5 @@
-% Jenatton
+% Implementation of Algorithm in Adaptive algorithms for 
+% online convex optimization with long-term constraints
 function[iterates, regret, const_violation] = Jenatton_et_al(d, m, x_curr, x_star, L, G, T, g_t_list, A, b, lb, ub, options)
 opt_err = zeros(T,1);
 regret = zeros(T,1);
