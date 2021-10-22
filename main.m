@@ -70,7 +70,6 @@ set(gca,'FontSize',20)
 xlabel('Time steps (t)','FontSize',30, 'Interpreter', 'latex');
 ylabel('$R(t)$', 'Interpreter', 'latex','FontSize',30);
 legend('Neely','Jenatton')
-%pbaspect([1 1 1])
 grid on
 
 figure(3)
@@ -81,7 +80,6 @@ set(gca,'FontSize',20)
 xlabel('Time steps (t)','FontSize',30, 'Interpreter', 'latex');
 ylabel('Constraint Violations', 'Interpreter', 'latex','FontSize',30);
 legend('Neely','Jenatton')
-%pbaspect([1 1 1])
 grid on
 
 %% """Relevant functions"""
