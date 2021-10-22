@@ -17,4 +17,4 @@ main(5000)
 ![regret](results/regret.png "Cummulative regret")
 
 ### Cummulative constraint violations
-![constraints](results/constraint_violation.png "Cummulative constraint violation")
+![constraints](results/constraints.png "Cummulative constraint violation")
